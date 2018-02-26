@@ -43,4 +43,5 @@ public class Group {
         this.name = name;
     }
     
+//Позвонить Саше
 }

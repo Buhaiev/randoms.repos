@@ -18,7 +18,7 @@ public class Oop1 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         
         //int x = 10;
         //String s = "sdafsd";
@@ -61,6 +61,10 @@ public class Oop1 {
         student3.lastName = "l_st3";
         student3.groupId = 24;
         
+        Group group1 = new Group();
+        group1.setId(1); 
         //System.out.println(student.id);
+        
+//Позвонить Саше
     }
 }
